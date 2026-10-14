@@ -1,0 +1,12 @@
+{
+  "key.category.nova.main": "Nova Client",
+  "key.nova.gui": "Open Nova GUI",
+  "key.nova.toggle.HUD": "Toggle HUD",
+  "key.nova.toggle.PlayerESP": "Toggle Player ESP",
+  "key.nova.toggle.StorageESP": "Toggle Storage ESP",
+  "key.nova.toggle.AntiVanish": "Toggle Anti-Vanish",
+  "key.nova.toggle.AutoWalk": "Toggle Auto Walk",
+  "key.nova.toggle.AutoMine": "Toggle Auto Mine",
+  "key.nova.toggle.FreeLook": "Toggle Free Look",
+  "key.nova.toggle.FreeCam": "Toggle Free Cam"
+}
